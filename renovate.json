@@ -1,0 +1,3 @@
+{
+    "extends": ["github>databutton/renovate-config:default"]
+}
