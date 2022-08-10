@@ -1,5 +1,7 @@
 # Getting started with Databutton
 
+[![Deploy project](https://github.com/databutton/hello-databutton/actions/workflows/deploy.yml/badge.svg)](https://github.com/databutton/hello-databutton/actions/workflows/deploy.yml)
+
 This project was created with `databutton create`.
 
 ## Available scripts
