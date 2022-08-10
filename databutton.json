@@ -1,0 +1,11 @@
+{
+  "uid": "785ef649-3cdc-489b-8424-6d57a2ca0f32",
+  "name": "hello-databutton",
+  "exclude": [
+    "venv",
+    ".venv",
+    "__pycache__",
+    ".databutton",
+    ".git"
+  ]
+}
