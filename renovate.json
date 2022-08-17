@@ -1,3 +1,10 @@
 {
-    "extends": ["github>databutton/renovate-config:default"]
+    "extends": ["config:base"],
+    "automerge": true,
+    "major": {
+        "automerge": false
+    },
+    "masterIssue": true,
+    "automergeType": "branch",
+    "timezone": "Europe/Oslo"
 }
